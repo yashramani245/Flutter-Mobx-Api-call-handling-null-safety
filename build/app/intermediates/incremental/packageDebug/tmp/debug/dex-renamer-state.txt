@@ -1,0 +1,4 @@
+#Sat May 22 12:21:45 IST 2021
+base.0=/Volumes/Data/FlutterProject/flutter_mobx_api_handling/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
